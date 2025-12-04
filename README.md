@@ -13,7 +13,7 @@ OpenPrintTag is an open-source NFC tag standard for 3D printing materials, devel
 
 ## Features
 
-- ✅ **NFC Tag Detection**: Automatic scanning for ISO15693 (NFC-V) tags
+- ✅ **NFC Tag Detection**: Automatic scanning for ISO15693 (NFC-V) tagses
 - ✅ **Complete Tag Reading**: Reads all memory blocks from ISO15693 tags
 - ✅ **NDEF Parsing**: Extracts NDEF records from tag memory
 - ✅ **CBOR Decoding**: Full CBOR parser for OpenPrintTag format

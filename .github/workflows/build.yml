@@ -13,8 +13,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Build FAP
-        uses: flipperdevices/flipperzero-ufbt-action@v0.1
+      - name: Build Flipper Application Package (.fap)
+        uses: flipperdevices/flipperzero-ufbt-action@v0.1.3
         id: build-fap
         with:
           sdk-channel: release
